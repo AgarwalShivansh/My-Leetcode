@@ -13,13 +13,11 @@ public:
             mpp[arr[r]]++;
             if(mpp.size() > 2)
             {
-                while(mpp.size() > 2)
-                {
-                    mpp[arr[l]]--;
+                  mpp[arr[l]]--;
                     if(mpp[arr[l]] == 0)
                         mpp.erase(arr[l]);
                     l++;
-                }
+                
             }
             else
             {
