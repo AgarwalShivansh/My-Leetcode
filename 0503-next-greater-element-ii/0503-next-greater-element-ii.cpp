@@ -11,12 +11,9 @@ public:
                 if(!st.empty() && st.top()<=nums[i%n])
                 {
                     st.pop();
-                    st.push(nums[i%n]);
                 }
-                else if(st.empty())
-                    st.push(nums[i%n]);
-                else
-                    st.push(nums[i%n]);
+               
+                st.push(nums[i%n]);
             }
             else
             {
