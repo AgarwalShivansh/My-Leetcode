@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0229-majority-element-ii](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0229-majority-element-ii) |
 | [0503-next-greater-element-ii](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Linked List
 |  |
@@ -86,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
