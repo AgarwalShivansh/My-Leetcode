@@ -109,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
