@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0090-subsets-ii) |
 | [0229-majority-element-ii](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0015-3sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/AgarwalShivansh/My-Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
